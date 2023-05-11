@@ -1,2 +1,2 @@
 # SV.Portfolio
-Portfolio Website for a Designer 
+Portfolio Website for Designer's
